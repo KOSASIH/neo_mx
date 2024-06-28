@@ -1,0 +1,10 @@
+/* visualization/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.line-chart {
+  width: 800px;
+  height: 400px;
+  margin: 40px auto;
+}
